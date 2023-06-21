@@ -10,7 +10,7 @@
 
 ⚡️ Skills: React, JavaScript, HTML, CSS, Git, RESTful APIs.
 
-🌐 Portfolio: https://648b3c35fdb6a41f8e70e92a--mellifluous-cocada-0bb6ab.netlify.app/
+🌐 Portfolio: https://christiandarlington-portfolio.netlify.app/
 
 📫 Let's connect! Feel free to reach out to me via christiandarlington0@gmail.com .
 
