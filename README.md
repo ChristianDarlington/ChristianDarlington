@@ -8,7 +8,7 @@
 
 💼 Seeking opportunities to contribute to exciting projects and collaborate with talented teams.
 
-⚡️ Skills: React, JavaScript, HTML, CSS, Git, RESTful APIs.
+⚡️ Skills: React, JavaScript, Next Js, HTML, CSS, Git, RESTful APIs.
 
 🌐 Portfolio: https://christiandarlington-portfolio.netlify.app/
 
