@@ -2,7 +2,7 @@
 
 🚀 Software Engineer | React Developer | Front-end Enthusiast
 
-💻 Passionate about creating user-friendly and interactive web experiences using React and Next JS.
+💻 Passionate about creating user-friendly and interactive web experiences.
 
 🌱 Currently learning and exploring new technologies to enhance my development skills.
 
