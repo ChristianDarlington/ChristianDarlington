@@ -12,5 +12,5 @@
 
 🌐 Portfolio: https://christiandarlington-portfolio.netlify.app/
 
-📫 Let's connect! Feel free to reach out to me via christiandarlington0@gmail.com .
+📫 Let's connect! Feel free to reach out to me via christiandarlington0@gmail.com 
 
