@@ -1,6 +1,6 @@
 👋 Hello, I'm Christian Darlington!
 
-🚀 Software Engineer | React Developer | Front-end Enthusiast
+🚀 Software Developer | React Developer | Front-end Enthusiast
 
 💻 Passionate about creating user-friendly and interactive web experiences.
 
